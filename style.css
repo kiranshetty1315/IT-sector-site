@@ -20,9 +20,7 @@
 .bar .navbar{
     background-color: #99c2ff;
 }
-.bar .container-fluid{
-    padding: 0px;
-}
+
 .bar a{
     color: black;
     font-size: 20px;
