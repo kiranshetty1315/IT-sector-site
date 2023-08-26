@@ -8,11 +8,20 @@
     margin-top: 80px;
     margin-bottom: 80px;
     text-align: center;
-
+}
+#btn{
+    border: none;
+    width: 90px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
 }
 /*--------------navbr---------------------*/
 .bar .navbar{
     background-color: #99c2ff;
+}
+.bar .container-fluid{
+    padding: 0px;
 }
 .bar a{
     color: black;
